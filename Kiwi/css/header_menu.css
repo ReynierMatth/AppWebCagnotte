@@ -1,0 +1,39 @@
+#menu_header.navbar-default .navbar-brand {
+    color: rgba(255, 255, 255, 1);
+}
+#menu_header.navbar-default {
+    font-size: 14px;
+    background-color: rgba(30, 127, 203, 1);
+    border-width: 1px;
+    border-radius: 4px;
+}
+#menu_header.navbar-default .navbar-nav>li>a {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(30, 127, 203, 1);
+}
+#menu_header.navbar-default .navbar-nav>li>a:hover,
+#menu_header.navbar-default .navbar-nav>li>a:focus {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(30, 127, 203, 1);
+}
+#menu_header.navbar-default .navbar-nav>.active>a,
+#menu_header.navbar-default .navbar-nav>.active>a:hover,
+#menu_header.navbar-default .navbar-nav>.active>a:focus {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(30, 127, 203, 1);
+}
+#menu_header.navbar-default .navbar-toggle {
+    border-color: #cad300;
+}
+#menu_header.navbar-default .navbar-toggle:hover,
+#menu_header.navbar-default .navbar-toggle:focus {
+    background-color: #cad300;
+}
+#menu_header.navbar-default .navbar-toggle .icon-bar {
+    background-color: #cad300;
+}
+#menu_header.navbar-default .navbar-toggle:hover .icon-bar,
+#menu_header.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #cad300;
+}
+

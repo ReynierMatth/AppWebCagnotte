@@ -1,0 +1,22 @@
+@font-face 
+{ 
+    font-family: "Vinegar";
+    src: url('../font/Vinegar_Stroke.ttf') format("truetype");
+}
+
+
+.tableau{
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: #F0F0F0 ;
+}
+
+h2
+{
+    font-family:'Vinegar';
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-top:0px;
+    color : blue;
+    text-align: center;
+}

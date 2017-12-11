@@ -1,0 +1,53 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 6 juin 2016, 16:26:41
+    Author     : lriviere
+*/
+@font-face 
+{ 
+    font-family: "Vinegar";
+    src: url('../font/Vinegar_Stroke.ttf') format("truetype");
+}
+
+
+h1{
+    color : blue;
+    font-family:'Vinegar'; 
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 2%;
+}
+
+
+.container{
+    height: 70%;
+    width: 40%;
+    float:left;
+    margin-left: 30%;
+    margin-top: 2%;
+}
+
+
+.form-group{
+    height: 50%;
+    width: 100%;
+}
+
+.kiwi{
+    width:5%;
+}
+/*
+h1
+{
+    font-family:Vinegar Stroke;
+    font-size : 50px;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-top: 1%;
+    color : blue;
+    text-align: center;
+}*/
